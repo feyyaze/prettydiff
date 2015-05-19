@@ -404,7 +404,7 @@ span.cm-error {
 .cm-s-white span.cm-keyword {color: #c33;}
 .cm-s-white span.cm-operator {color: #f00;}
 .cm-s-white span.cm-variable,
-.cm-s-white span.cm-variable-2 {color: #345;}
+.cm-s-white span.cm-variable-2 {color: #346;}
 .cm-s-white span.cm-def,
 .cm-s-white.CodeMirror {color: #444;}
 .cm-s-white span.cm-error {color: #000;}
